@@ -9,7 +9,7 @@ This repository is dedicated to my educational journey learning Power BI.
 
 ## SuperStore Report
 
-My first report created is a 2016 - 2019 Sales & Budget Report for the company SuperShop Store, a sample relational database with tables containing information such as Sales, Customers, Budget, Territories, Products, and a Calendar for the years 2016 - 2019.
+My first report created is a 2016 - 2019 Sales & Budget Report for the SuperShop Store, a sample relational database with tables containing information such as Sales, Customers, Budget, Territories, Products, and a Calendar for the years 2016 - 2019.
 
 ## Data Cleaning
 
@@ -18,8 +18,6 @@ The first step to any practiced data analysis is data cleaning. With this databa
 ![image](https://user-images.githubusercontent.com/71164642/201505386-16acbc0f-563b-4a62-8866-bc172db40c42.png)
 
 After this step, my second task was to map the relationships between the data tables (Sales & Budget) and the lookup tables (Customer, Product, Territories & Calendar). This step is crucial when working with relational databases, because without mapping keys between data tables and lookup tables, analyses would only be possible with independent tables.
-
-![image](https://user-images.githubusercontent.com/71164642/201505416-c7abbae5-7691-4de5-ae68-d858de2783e1.png)
 
 ## Reporting
 
