@@ -15,7 +15,11 @@ My first report created is a 2016 - 2019 Sales & Budget Report for the company S
 
 The first step to any practiced data analysis is data cleaning. With this database, the only data that had to be cleaned was in the Budget table. In the Excel file that the data originated from, the table included column names within the rows, Total Values, and the column headers as row values.
 
+![image](https://user-images.githubusercontent.com/71164642/201505386-16acbc0f-563b-4a62-8866-bc172db40c42.png)
+
 After this step, my second task was to map the relationships between the data tables (Sales & Budget) and the lookup tables (Customer, Product, Territories & Calendar). This step is crucial when working with relational databases, because without mapping keys between data tables and lookup tables, analyses would only be possible with independent tables.
+
+![image](https://user-images.githubusercontent.com/71164642/201505416-c7abbae5-7691-4de5-ae68-d858de2783e1.png)
 
 ## Reporting
 
